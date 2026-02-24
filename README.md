@@ -213,21 +213,10 @@ markdown
 - [ ] Add loading skeletons
 - [ ] Optimize image loading
 🛠️ Development Guide
-Customizing for Your Own Use
-Change Personal Information
-
-Update name, title, and description in index.html
-
-Replace social media links
-
-Modify contact information
-
-Update Skills Section
-
 html
 <!-- In skills section -->
 <div class="skill-bar">
-  <span>Your Skill Here</span>
+  <span>frontend developer</span>
   <div class="skill-progress" data-width="85"></div>
 </div>
 Add Your Projects
@@ -241,8 +230,8 @@ html
     <h3>Project Title</h3>
     <p>Project description here</p>
     <div class="project-tech">
-      <span>Tech 1</span>
-      <span>Tech 2</span>
+      <span>neon warrior </span>
+      <span>netmonitor monitor (antrea) </span>
     </div>
     <div class="project-links">
       <a href="#" class="project-link">
@@ -251,47 +240,3 @@ html
     </div>
   </div>
 </div>
-Performance Optimization Tips
-Minify assets for production:
-
-bash
-# Using online tools or build tools like:
-# - CSS Nano for CSS
-# - Terser for JavaScript
-# - ImageOptim for images
-Implement lazy loading:
-
-javascript
-// Add to images in the future
-<img loading="lazy" src="image.jpg" alt="description">
-📚 Learning Resources
-For Understanding the Code
-MDN Web Docs - HTML/CSS/JS reference
-
-CSS-Tricks - Modern CSS techniques
-
-JavaScript.info - Modern JavaScript tutorial
-
-For Portfolio Inspiration
-Awwwards - Design inspiration
-
-Codepen - Code snippets and ideas
-
-Dribbble - Design trends
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-🙏 Acknowledgments
-Icons by Font Awesome
-
-Design inspiration from modern portfolio trends
-
-Mentors at Vedam School of Technology
-
-Open source community for continuous learning
-
-📞 Support
-For support, email jhah1225@gmail.com or create an issue in the GitHub repository.
-
-Made with ❤️ by Harsh Kumar | Cybersecurity Student | Open Source Contributor
